@@ -8,4 +8,5 @@ My current work surrounds pushing RAG systems to their limits and evaluating whe
 
 
 **Languages:** Python, Java, C, R, HTML/CSS, JavaScript, SQL (Postgres), Golang
+
 **Tools:** Docker, AWS, Git, Bash
