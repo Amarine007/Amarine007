@@ -1,6 +1,6 @@
 ## Hi there, I'm Adarsh Marinedrive
 
-I'm currently a sophomore at Columbia University studying Computer Science and Minoring in OR & Statistics
+I'm currently a sophomore at Columbia University studying Computer Science
 My passion lies in the intersection of machine learning, deep learning, and AI architectures, especially as it relates to their applications in healthcare, research, and software solutions.
 
 My current work surrounds pushing RAG systems to their limits and evaluating where and why it breaks when put under a stress test.
